@@ -1,0 +1,41 @@
+CODEBOOK
+
+DEPENDENT VARIABLES
+ - Contraceptive prevalence (% of women ages 15-49) = "SP.DYN.CONU.ZS" (world bank data)
+ - Unmet need for contraception (% of married women ages 15-49) = "SP.UWT.TFRT" (world bank data)
+
+criteria of inexistence or failure of "family planning"
+ - low level of Contraceptive prevalence (% of women ages 15-49) = "SP.DYN.CONU.ZS" (world bank data)
+ - high level Unmet need for contraception (% of married women ages 15-49) = "SP.UWT.TFRT" (world bank data)
+
+consequence of inexistence or failure of "family planning"
+ - population growth rate = "SP.POP.GROW" (world bank data)
+ - Fertility rate, total (births per woman) = "SP.DYN.TFRT.IN" (world bank data)
+
+
+INDEPENDENT VARIABLES
+
+Usual factors of "family planning failure"
+LOW LEVEL OF DEVELOPMENT
+ - "GNI per capita (constant 2000 US$)" = "NY.GNP.PCAP.KD"
+ - "GDP growth (annual %)" = "NY.GDP.MKTP.KD.ZG"
+
+POVERTY AND INEQUALITY
+ - "Poverty headcount ratio at $1.25 a day (PPP) (% of population)" = "SI.POV.DDAY"
+ - "GINI index" (poverty index) = "SI.POV.GINI"
+
+LACK OF EDUCATION
+ - "Literacy rate, adult total (% of people ages 15 and above)" = "SE.ADT.LITR.ZS"
+ - "Literacy rate, adult female (% of females ages 15 and above)" = "SE.ADT.LITR.FE.ZS"
+ - "Literacy rate, adult male (% of males ages 15 and above)" = "SE.ADT.LITR.MA.ZS"
+ - "Secondary education, pupils" = "SE.SEC.ENRL" 
+ - "Secondary education, pupils (% female)" = "SE.SEC.ENRL.FE.ZS"
+
+CULTURAL FACTORS - Source: NationMaster.com, CIA World Factbook
+ - religion: catholicism, Islam
+ - colonial legacies: French influences
+
+POLITICAL FACTORS
+ - lack of freedom (autocratic political system) - Freedom House
+ - lack of political will of the part of the government - This is the government effort
+
